@@ -1,6 +1,7 @@
 # Website for Beacon
 
 Based on Start Bootstrap - Creative template
+Pull from the gh-pages branch to ensure the most up-to-date repo
 
 ## //TODO:
 Update contact info
